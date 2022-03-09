@@ -9,7 +9,7 @@ img = cv.imread('jjlin.jpg',0)
 # IMREAD_COLOR =1
 # IMREAD_UNCHANGED = -1
 
-##显示图片##test
+##显示图片##test##test2
 #cv.namedWindow('w',cv.WINDOW_NORMAL)	## 改变窗口大小
 cv.imshow('w', img)
 key = cv.waitKey(0)
